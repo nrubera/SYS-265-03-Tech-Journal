@@ -1,1 +1,1 @@
-mgmt-01
+hostname
